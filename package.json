@@ -1,0 +1,13 @@
+{
+  "name": "rocket-alpha-ui",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {
+    "./auth": "./src/auth.ts",
+    "./format": "./src/format.ts",
+    "./panels": "./src/panels.ts",
+    "./pwa": "./src/pwa.ts",
+    "./SharedAppShell.vue": "./src/SharedAppShell.vue"
+  }
+}
